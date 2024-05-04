@@ -1,0 +1,26 @@
+body{
+    background-color: darkslategray;
+}
+h1{
+    color: aqua;
+    text-shadow: 10px 20px 30px #000;
+}
+p{
+    color: antiquewhite;
+    text-shadow: 10px 10px 10px #000;
+}
+h2{
+    color: aliceblue;
+    text-shadow: 10px 10px 10px #000;
+}
+li{
+    color: aqua;
+    text-shadow: 5px 10px 15px #000;
+}
+blockquote{
+    float: left;
+}
+b{
+    color: red;
+    text-shadow: 10px 10px 10px #000;
+}
